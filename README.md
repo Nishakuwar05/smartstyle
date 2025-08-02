@@ -31,11 +31,10 @@ smartstyle/
 └── requirements.txt
 
 
-🧠 Tech Stack
+ Tech Stack
 Layer	Technology
 UI / Frontend	HTML, CSS, Bootstrap (optional)
 Backend	Python (Flask)
 Database	MySQL
 AI / ML	OpenCV (camera), scikit‑learn or rule logic
 Data Handling	pandas, CSV
-
